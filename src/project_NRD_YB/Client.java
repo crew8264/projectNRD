@@ -1,8 +1,6 @@
 package project_NRD_YB;
-
 import java.io.*;
 import java.net.*;
-
 
 public class Client {
     public static void main(String[] arg)

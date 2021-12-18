@@ -3,8 +3,7 @@ import java.io.*;
 import java.net.*;
 
 public class Client {
-    public static void main(String[] arg)
-    {
+    public static void main(String[] arg) {
     	   	
         Socket socket = null;            //Server와 통신하기 위한 Socket
         BufferedReader in = null;        //Server로부터 데이터를 읽어들이기 위한 입력스트림
